@@ -1,0 +1,27 @@
+{
+  "name": "coderz",
+  "version": "1.0.0",
+  "description": "This is an AI security scanning web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwertyaditi/Coderz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/qwertyaditi/Coderz/issues"
+  },
+  "homepage": "https://github.com/qwertyaditi/Coderz#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
